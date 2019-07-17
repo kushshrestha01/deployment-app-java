@@ -19,3 +19,4 @@ public class HelloWorldController {
         return "Hello, " + name + " from " + (from * 25);
     }
 }
+
